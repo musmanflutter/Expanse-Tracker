@@ -1,16 +1,9 @@
-# expanse_tracker
+# Expense Tracker App
 
-A new Flutter project.
+A Flutter-based expense tracker application that allows users to add, view, and manage their expenses with a detailed category-wise expense chart. The app supports system theme preference, displaying a dark theme when the system is set to dark mode.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Expenses**: Users can add new expenses by specifying the title, amount, date, and category.
+- **View Expenses**: The main page displays a chart of all categories showing the total expenses for each category and a list of all expenses.
+- **System Theme Support**: The app adapts to the system theme, supporting both dark and light modes.
