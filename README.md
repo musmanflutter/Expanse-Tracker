@@ -4,9 +4,9 @@ A Flutter-based expense tracker application that allows users to add, view, and 
 
 
 ## My Screens:
+  <div style="display: flex; flex-wrap: wrap;">
   <img src="assets/1.jpg" alt="Drawer Menu" width="333"/>
   <img src="assets/2.jpg" alt="Drawer Menu" width="333"/>
-
 
 ## Features
 
